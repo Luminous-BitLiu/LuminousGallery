@@ -12,7 +12,7 @@ LuminousGallery 1.0-MOD for Hacknet Pathfinder.
 - `#BITLIU_TOOL#`|`BitLiuTool.exe`:破解`213 (BitLiu Backdoor)`端口
   - 破解时间大概`25`秒;
   - 启动时`#playerComp#`会有被入侵风险，使得黑客进行入侵活动(触发`HackerScript`和`forkboom`);
-- `#SSL_FAST#` | `SSLFastTool.exe`:破解`443 (BitLiu Backdoor)`端口
+- `#SSL_FAST#` | `SSLFastTool.exe`:破解`443 `端口
   - 需要`22`，`80`端口开放并开启;
   - 破解时间大概`20`秒(比原版快);
   - 会额外开放`25`端口，并关闭`22`，`80`端口;
