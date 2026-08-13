@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+*.log
+
+# Build outputs
+Debug/
+Release/
+
+# 系统文件
+.DS_Store
+Thumbs.db
