@@ -1,4 +1,4 @@
-Luminous MOD for Hacknet Pathfinder.
+LuminousGallery-Luminous MOD for Hacknet Pathfinder.
 ===
 荧辉集库，适用于 Hacknet Pathfinder 的自定义MOD.
 ===
